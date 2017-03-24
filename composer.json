@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4" : {
+            "ngyuki\\Sandbox\\": "src/"
+        }
+    },
+    "require": {
+        "container-interop/container-interop": "^1.2"
+    }
+}
